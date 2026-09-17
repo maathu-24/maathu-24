@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi, I’m Maathu 👋 HDCSE Student | Web Developer | Python Learner | Exploring Data Science & AI
 
-<!--
-**maathu-24/maathu-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 About Me 🎓 Studying Higher Diploma in Computer Science (HDCSE), Web developer interested in creating modern and responsive websites, currently learning Python, exploring Data Science and AI, interested in freelance web development.
 
-Here are some ideas to get you started:
+🛠️ Skills HTML, CSS, JavaScript, Python, Git & GitHub, Responsive Web Design 🌐 Portfolio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Visit my portfolio:
+
+https://maathu-24.github.io/Maathu-portfolio
+
+📂 Projects
+
+FamilyCare website, Safe Care website, Vei Kudil website, Other web development projects. 📫 Connect With Me
