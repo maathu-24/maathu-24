@@ -1,4 +1,4 @@
-Hi, I’m Maathu 👋 HDCSE Student | Web Developer | Python Learner | Exploring Data Science & AI
+Hi, I’m Maathu 👋 HDCSE Student | Web Developer | Python Learner | AI
 
 👨‍💻 About Me 🎓 Studying Higher Diploma in Computer Science (HDCSE), Web developer interested in creating modern and responsive websites, currently learning Python, exploring Data Science and AI, interested in freelance web development.
 
