@@ -8,6 +8,3 @@ Visit my portfolio:
 
 https://maathu-24.github.io/Maathu-portfolio
 
-📂 Projects
-
-FamilyCare website, Safe Care website, Vei Kudil website, Other web development projects. 📫 Connect With Me
